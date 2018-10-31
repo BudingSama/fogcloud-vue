@@ -1,0 +1,42 @@
+{
+  "title":{
+    "titlebar":{
+      "cn":"标题栏",
+      "en":"Title Bar"
+    },
+    "style":{
+      "cn":"标题样式",
+      "en":"Style"
+    },
+    "content":{
+      "cn":"标题内容",
+      "en":"Content"
+    },
+    "display":{
+      "cn":"显示头像",
+      "en":"Display"
+    },
+    "placeholder":{
+      "cn":"设置",
+      "en":"Settings"
+    }
+  },
+  "button":{
+    "titlebar":{
+      "cn": "底栏按钮",
+      "en": "Tab Bar Button"
+    },
+    "title": {
+        "cn": "标题",
+        "en": "title"
+    },
+    "select":{
+        "cn": "选中状态图标(预览和上传)",
+        "en": "Active Satus Icon"
+    },
+    "unselect":{
+        "cn": "未选中状态图标(预览和上传)",
+        "en": "Inactive Satus Icon"
+    }
+  }
+}

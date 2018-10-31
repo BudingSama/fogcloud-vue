@@ -1,0 +1,77 @@
+.signWrap {
+    background: #eee;
+    width: 100%;
+    height: 100%;
+    background: url('http://www.mxchip.com/public/upload/595eef123c79b.jpg') 100% 100%;
+  }
+  .text {
+    font-size: 14px;
+  }
+
+  .item {
+    padding: 18px 0;
+  }
+
+  .box-card {
+    width: 400px;
+    height: 370px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    padding: 30px 50px;
+  }
+  .box-card-r{
+      height: 570px;
+  }
+  .box-card-f{
+      height: 500px;
+  }
+  .title{
+    text-align: center;
+    font-size: 24px;
+    padding-bottom: 10px;
+    font-weight: lighter;
+    border-bottom: 1px solid #ededed;
+    margin-bottom: 50px;
+    color: #909399;
+  }
+  .el-form{
+      margin-top: 50px;
+  }
+  .login-btn{
+      width: 100%;
+  }
+  .register,.forget{
+      font-size: 14px;
+  }
+  .register a,.forget a{
+      text-decoration: none;
+      color: #409EFF;
+      font-weight: 500;
+      cursor: pointer;
+  }
+  .register{
+      float: left;
+  }
+  .forget{
+      float: right;
+  }
+  .login-btn{
+      margin-top: 30px;
+  }
+  .relogin{
+      margin:0 auto;
+      float:none;
+  }
+  .get-card{
+      float:left;
+      width: 110px;
+  }
+  .get-card-input{
+      width:calc(100% - 128px);
+      float: left;
+      margin-right: 18px;
+  }

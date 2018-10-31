@@ -1,0 +1,32 @@
+{
+  "title": {
+    "titlebar": {
+      "cn": "应用主题色",
+      "en": "Application Theme Color"
+    },
+    "des": {
+      "cn": "此颜色将作为应用的通用主题配色，如底栏选择高亮、主界面背 景颜色、菜单高亮主题色等。请尽量选择纯度、明度适中的颜色。",
+      "en": "This color will be applied as a common theme color, such as highlight the bottom bar selection, the main interface background color, the menu highlight the theme color and so on. Please try to choose the purity, lightness moderate color."
+    },
+    "color": {
+      "cn": "选择颜色",
+      "en": "Select Color"
+    }
+  },
+  "NetWork":{
+    "titlebar": {
+      "cn": "配网相关",
+      "en": "Network Setting"
+    },
+    "placeholder": {
+      "title": {
+        "cn": "配网下一步按钮文字内容",
+        "en": "Next Step Button Title"
+      },
+      "content": {
+        "cn": "下一步",
+        "en": "Next Step"
+      }
+    }
+  }
+}
