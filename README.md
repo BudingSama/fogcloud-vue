@@ -35,3 +35,8 @@ npm run serve
 │       └── request.js //axios promise
 
 ```
+#### Test user
+```
+username: sakai
+password: 123123123
+```
